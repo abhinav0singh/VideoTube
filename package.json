@@ -1,0 +1,29 @@
+{
+  "name": "videotube",
+  "version": "1.0.0",
+  "description": "Backend project",
+  "main": "src/index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node src/index.js",
+    "dev":"nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinav0singh/VideoTube.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "nodeJS",
+    "expressJS",
+    "Postman",
+    "Backend"
+  ],
+  "author": "Abhinav Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinav0singh/VideoTube/issues"
+  },
+  "homepage": "https://github.com/abhinav0singh/VideoTube#readme"
+}
